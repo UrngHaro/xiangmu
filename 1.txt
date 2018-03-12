@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qqqqqqqqqqqqqqqqqqqqqqqqqq
+=======
+hgdasgh
+>>>>>>> e4cb2504f41ead116772c235b684e46df8ad43a4
